@@ -1,0 +1,2 @@
+from easyregression.LinearRegression import LinearRegression
+from easyregression.LogisticRegression import LogisticRegression
